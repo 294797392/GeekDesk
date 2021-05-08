@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using WPFToolkit.MVVM;
 
-namespace FreeDesk.ViewModels
+namespace GeekDesk.ViewModels
 {
     public class AppVM : ViewModelBase
     {

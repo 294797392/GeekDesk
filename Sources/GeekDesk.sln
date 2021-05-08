@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeDesk", "FreeDesk\FreeDesk.csproj", "{95D4D72A-1389-4011-A6EE-374E16ED6DA0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeekDesk", "GeekDesk\GeekDesk.csproj", "{95D4D72A-1389-4011-A6EE-374E16ED6DA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeDesk.ViewModels", "FreeDesk.ViewModels\FreeDesk.ViewModels.csproj", "{EE412839-87BA-4F7C-91C4-00CE8E00A72E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeekDesk.ViewModels", "GeekDesk.ViewModels\GeekDesk.ViewModels.csproj", "{EE412839-87BA-4F7C-91C4-00CE8E00A72E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

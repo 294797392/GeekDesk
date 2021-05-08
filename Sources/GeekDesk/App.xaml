@@ -1,7 +1,7 @@
-﻿<Application x:Class="FreeDesk.App"
+﻿<Application x:Class="GeekDesk.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:FreeDesk"
+             xmlns:local="clr-namespace:GeekDesk"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          

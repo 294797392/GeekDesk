@@ -7,8 +7,8 @@
     <ProjectGuid>{EE412839-87BA-4F7C-91C4-00CE8E00A72E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>FreeDesk.ViewModels</RootNamespace>
-    <AssemblyName>FreeDesk.ViewModels</AssemblyName>
+    <RootNamespace>GeekDesk.ViewModels</RootNamespace>
+    <AssemblyName>GeekDesk.ViewModels</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

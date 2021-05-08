@@ -1,12 +1,12 @@
 ﻿using DotNEToolkit;
-using FreeDesk.ViewModels;
+using GeekDesk.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FreeDesk
+namespace GeekDesk
 {
     public class FreeContext : SingletonObject<FreeContext>
     {
